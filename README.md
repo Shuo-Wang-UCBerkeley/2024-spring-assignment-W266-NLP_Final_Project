@@ -1,4 +1,8 @@
-# Final Project: Full End-to-End Machine Learning API
+# Final Project: Text Classification on Toxic Comments
+
+UC Berkeley MIDS Program
+Shuo Wang, Ci Song
+Spring 2024
 
 <p align="center">
     <!--Hugging Face-->
@@ -29,7 +33,7 @@
         <img src="https://user-images.githubusercontent.com/1393562/197682977-ff2ffb72-cd96-4f92-94d9-2624e29098ee.svg" width=7%>
 </p>
 
-- [Final Project: Full End-to-End Machine Learning API](#final-project-full-end-to-end-machine-learning-api)
+- [Final Project: Text Classification on Toxic Comments](#final-project-Text-Classification-on-Toxic-Comments)
   - [Project Overview](#project-overview)
   - [Lab Objectives](#lab-objectives)
   - [Helpful Information](#helpful-information)
