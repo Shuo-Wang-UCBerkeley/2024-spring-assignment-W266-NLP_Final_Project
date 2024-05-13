@@ -1,7 +1,9 @@
 # Final Project: Text Classification on Toxic Comments
 
 UC Berkeley MIDS Program 
+
 Shuo Wang, Ci Song 
+
 Spring 2024
 
 <p align="center">
