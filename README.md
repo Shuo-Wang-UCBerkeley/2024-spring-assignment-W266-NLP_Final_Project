@@ -6,6 +6,8 @@ Shuo Wang, Ci Song
 
 Spring 2024
 
+Our project is heavily isnpired by the <a href="https://www.kaggle.com/c/jigsaw-toxic-comment-classification-challenge">Jigsaw Toxic Comment Classification challenge</a> on Kaggle.
+
 <p align="center">
     <!--Hugging Face-->
         <img src="https://user-images.githubusercontent.com/1393562/197941700-78283534-4e68-4429-bf94-dce7ab43a941.svg" width=7%>
