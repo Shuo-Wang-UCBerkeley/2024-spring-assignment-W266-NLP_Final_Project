@@ -72,10 +72,10 @@ You will:
 ![alt text](https://github.com/Shuo-Wang-UCBerkeley/2024-spring-assignment-W266-NLP_Final_Project/blob/main/Images/Dataset.png)
 ## Models
 - Baseline Models
-    - CountVectorizer - CNB
-    - CountVectorizer - MNB
+    - CountVectorizer - Complement Naive Bayes (CNB)
+    - CountVectorizer - Multinomial Naive Bayes (MNB)
     - TfidfVectorizer - CNB
-    - TfidfVectorizer - CNB
+    - TfidfVectorizer - MNB
 - Transformer Models
     - BART
     - BERT
@@ -91,6 +91,7 @@ You will:
         - DAN_Retrain_word2vec
         - DAN-REtrain_uniform
     - Weighted Averaging Networks (WANs)
+    - Logestic Regression
     - CNN
         - CNN-non_Retrain
         - CNN-Retrain
