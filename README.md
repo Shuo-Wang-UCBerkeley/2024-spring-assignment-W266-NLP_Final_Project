@@ -39,7 +39,9 @@ Our project is heavily isnpired by the <a href="https://www.kaggle.com/c/jigsaw-
 
 - [Final Project: Text Classification on Toxic Comments](#final-project-Text-Classification-on-Toxic-Comments)
   - [Project Overview](#project-overview)
-  - [Lab Objectives](#lab-objectives)
+  - [Dataset](#dataset)
+  - [Models](#models)
+  - [Model Evaluation](#model-evaluation)
   - [Helpful Information](#helpful-information)
     - [Model Background](#model-background)
     - [Pydantic Model Expectations](#pydantic-model-expectations)
@@ -65,7 +67,11 @@ You will:
 - Use `K6` to load test your application
 - Use `Grafana` to visualize and understand the dynamics of your system
 
-## Lab Objectives
+## Dataset
+
+## Models
+
+## Model Evaluation
 
 - [ ] Write pydantic models to match the specified input model
   - ```{"text": ["example 1", "example 2"]}```
@@ -126,3 +132,5 @@ All items are conditional on a `95%` cache rate, and after a `10 minute` sustain
 ## Time Expectations
 
 This project will take approximately ~10 hours.
+
+!pip install -q transformers==4.37.2
