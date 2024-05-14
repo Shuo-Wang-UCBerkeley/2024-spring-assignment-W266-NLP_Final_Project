@@ -101,7 +101,7 @@ You will:
         - CNN_RNN-non_Retrain
         - CNN_RNN-Retrain
 ## Experienment Results
-![Experienment Results](./images/Experienment_Results.png)
+![Experienment Results](./Images/Experienment_Results.png)
 
 ## Model Evaluation and Metrics Summary
 
