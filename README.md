@@ -75,4 +75,5 @@ revealed that fine-tuned transformer-based models not only substantially improve
     The current data is highly imbalanced, a potential solution is to build a two-step models.  
 
 - Parallel Computing Technique
+
     Utilizing parallel computing technique to work for the advanced NLP algorithms, including RoBERTa-LONG, T5, and XLNET. These 3 models resulted in Resource Exhausted Errors with the limited GPU capacity in Google Colab.
