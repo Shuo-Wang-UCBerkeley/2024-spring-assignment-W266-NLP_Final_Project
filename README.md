@@ -41,7 +41,37 @@ Our project is heavily isnpired by the <a href="https://www.kaggle.com/c/jigsaw-
   - [Project Overview](#project-overview)
   - [Dataset](#dataset)
   - [Models](#models)
-  - [Model Evaluation](#model-evaluation)
+    - Baseline Models
+        - CountVectorizer - CNB
+        - CountVectorizer - MNB
+        - TfidfVectorizer - CNB
+        - TfidfVectorizer - CNB
+    - Transformer Models
+        - BART
+        - BERT
+        - BERT+CNN
+        - DistilBERT
+        - DistilBERT+CNN
+        - ALBERT
+        - RoBERTa
+        - Bidirectional_GRU
+    - Models
+        - Deep Averaging Network (DAN)
+            - DAN-Static
+            - DAN_Retrain_word2vec
+            - DAN-REtrain_uniform
+        - Weighted Averaging Networks (WANs)
+        - CNN
+            - CNN-non_Retrain
+            - CNN-Retrain
+        - RNN
+            - RNN-non_Retrain
+            - RNN-Retrain
+        - CNN_RNN
+            - CNN_RNN-non_Retrain
+            - CNN_RNN-Retrain
+  - [Experienment Results](#experienment-results)
+  - [Model Evaluation and Metrics Summary](#model-evaluation-and-metrics-summary)
   - [Helpful Information](#helpful-information)
     - [Model Background](#model-background)
     - [Pydantic Model Expectations](#pydantic-model-expectations)
@@ -55,7 +85,7 @@ Our project is heavily isnpired by the <a href="https://www.kaggle.com/c/jigsaw-
 
 The goal of `final_project` is to take everything you have learned in this class and deploy a fully functional prediction API accessible to end users.
 
-**You will**:
+You will:
 
 - Utilize `Poetry` to define your application dependancies
 - Package up an existing NLP model ([DistilBERT](https://arxiv.org/abs/1910.01108)) for running efficient CPU-based sentiment analysis from `HuggingFace`
@@ -71,7 +101,9 @@ The goal of `final_project` is to take everything you have learned in this class
 
 ## Models
 
-## Model Evaluation
+## Experienment Results
+
+## Model Evaluation and Metrics Summary
 
 - [ ] Write pydantic models to match the specified input model
   - ```{"text": ["example 1", "example 2"]}```
