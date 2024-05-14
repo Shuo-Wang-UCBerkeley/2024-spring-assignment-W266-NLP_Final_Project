@@ -71,35 +71,35 @@ You will:
 ## Dataset
 
 ## Models
-    - Baseline Models
-        - CountVectorizer - CNB
-        - CountVectorizer - MNB
-        - TfidfVectorizer - CNB
-        - TfidfVectorizer - CNB
-    - Transformer Models
-        - BART
-        - BERT
-        - BERT+CNN
-        - DistilBERT
-        - DistilBERT+CNN
-        - ALBERT
-        - RoBERTa
-        - Bidirectional_GRU
-    - Models
-        - Deep Averaging Network (DAN)
-            - DAN-Static
-            - DAN_Retrain_word2vec
-            - DAN-REtrain_uniform
-        - Weighted Averaging Networks (WANs)
-        - CNN
-            - CNN-non_Retrain
-            - CNN-Retrain
-        - RNN
-            - RNN-non_Retrain
-            - RNN-Retrain
-        - CNN_RNN
-            - CNN_RNN-non_Retrain
-            - CNN_RNN-Retrain
+- Baseline Models
+    - CountVectorizer - CNB
+    - CountVectorizer - MNB
+    - TfidfVectorizer - CNB
+    - TfidfVectorizer - CNB
+- Transformer Models
+    - BART
+    - BERT
+    - BERT+CNN
+    - DistilBERT
+    - DistilBERT+CNN
+    - ALBERT
+    - RoBERTa
+    - Bidirectional_GRU
+- Models
+    - Deep Averaging Network (DAN)
+        - DAN-Static
+        - DAN_Retrain_word2vec
+        - DAN-REtrain_uniform
+    - Weighted Averaging Networks (WANs)
+    - CNN
+        - CNN-non_Retrain
+        - CNN-Retrain
+    - RNN
+        - RNN-non_Retrain
+        - RNN-Retrain
+    - CNN_RNN
+        - CNN_RNN-non_Retrain
+        - CNN_RNN-Retrain
 ## Experienment Results
 
 ## Model Evaluation and Metrics Summary
