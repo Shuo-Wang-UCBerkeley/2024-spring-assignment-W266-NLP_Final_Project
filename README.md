@@ -69,7 +69,7 @@ You will:
 - Use `Grafana` to visualize and understand the dynamics of your system
 
 ## Dataset
-
+![alt text](https://github.com/Shuo-Wang-UCBerkeley/2024-spring-assignment-W266-NLP_Final_Project/blob/main/Images/Dataset.png)
 ## Models
 - Baseline Models
     - CountVectorizer - CNB
