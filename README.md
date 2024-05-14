@@ -55,7 +55,7 @@ Our project is heavily isnpired by the <a href="https://www.kaggle.com/c/jigsaw-
 
 The goal of `final_project` is to take everything you have learned in this class and deploy a fully functional prediction API accessible to end users.
 
-**You_will**:
+**You will**:
 
 - Utilize `Poetry` to define your application dependancies
 - Package up an existing NLP model ([DistilBERT](https://arxiv.org/abs/1910.01108)) for running efficient CPU-based sentiment analysis from `HuggingFace`
