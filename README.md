@@ -14,6 +14,7 @@ Our project is heavily isnpired by the <a href="https://www.kaggle.com/c/jigsaw-
   - [Models](#models)
   - [Experienment Results](#experienment-results)
   - [Model Evaluation and Metrics Summary](#model-evaluation-and-metrics-summary)
+  - [Future Work](#future-work)
   - [Helpful Information](#helpful-information)
     - [Model Background](#model-background)
     - [Pydantic Model Expectations](#pydantic-model-expectations)
@@ -67,3 +68,7 @@ revealed that fine-tuned transformer-based models not only substantially improve
 ## Model Evaluation and Metrics Summary
 ![alt text](https://github.com/Shuo-Wang-UCBerkeley/2024-spring-assignment-W266-NLP_Final_Project/blob/main/Images/Model_Evaluation_Metrics_Summary_1.png)
 ![alt text](https://github.com/Shuo-Wang-UCBerkeley/2024-spring-assignment-W266-NLP_Final_Project/blob/main/Images/Model_Evaluation_Metrics_Summary_2.png)
+
+## Future Work
+- Multi-Class Text Classification. The current data is highly imbalanced, a potential solution is to build a two-step models.  
+- Utilizing parallel computing technique to work for the advanced NLP algorithms, including RoBERTa-LONG, T5, and XLNET. These 3 models resulted in Resource Exhausted Errors with the limited GPU capacity in Google Colab.
