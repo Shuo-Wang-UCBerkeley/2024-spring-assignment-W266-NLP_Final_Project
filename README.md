@@ -102,6 +102,7 @@ You will:
         - CNN_RNN-Retrain
 ## Experienment Results
 ![Experienment Results](./Images/Experienment_Results.png)
+![alt text](https://github.com/Shuo-Wang-UCBerkeley/2024-spring-assignment-W266-NLP_Final_Project/blob/main/Images/Experiment_Results.png)
 
 ## Model Evaluation and Metrics Summary
 
