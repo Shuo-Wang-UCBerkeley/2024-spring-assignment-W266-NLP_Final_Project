@@ -18,11 +18,6 @@ Our project is heavily isnpired by the <a href="https://www.kaggle.com/c/jigsaw-
   - [Helpful Information](#helpful-information)
     - [Environment](#environment)
     - [Transformer Version](#transformer-version)
-    - [Poetry Dependancies](#poetry-dependancies)
-    - [Git Large File Storage (LFS)](#git-large-file-storage-lfs)
-  - [Submission](#submission)
-  - [Grading](#grading)
-  - [Time Expectations](#time-expectations)
 
 ## Project Overview
 
