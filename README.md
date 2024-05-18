@@ -80,9 +80,10 @@ revealed that fine-tuned transformer-based models not only substantially improve
 
 ![alt text](https://github.com/Shuo-Wang-UCBerkeley/2024-spring-assignment-W266-NLP_Final_Project/blob/main/Images/Label_Frequency.png)
 
-## Environment
+## Helpful Information
+### Environment
 A series of notebooks and scripts are run on Google Colaboratory Pro using GPU environment.
-## Transformer Version
+### Transformer Version
 Hugging Face updated the Transformers library, to run our code (like BERT) we need to revert to an earlier version of the Transformers library.
 
 !pip install -q transformers==4.37.2
