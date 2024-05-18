@@ -82,3 +82,5 @@ A series of notebooks and scripts are run on Google Colaboratory Pro using GPU e
 Hugging Face updated the Transformers library, to run our code (like BERT) we need to revert to an earlier version of the Transformers library.
 
 !pip install -q transformers==4.37.2
+
+[Back-To-Top](#final-project-Text-Classification-on-Toxic-Comments)
